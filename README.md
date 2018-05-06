@@ -1,5 +1,5 @@
 # public
-公开的
+打印模拟商场购物折扣找零信息
 public static void main(String[] args){
   System.out.println("***消费单***");
   System.out.println("购买物品\t单价\t个数\t金额");
